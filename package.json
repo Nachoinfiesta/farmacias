@@ -1,0 +1,22 @@
+{
+  "name": "my-farmacia-app",
+  "version": "1.0.0",
+  "description": "Una aplicación para buscar farmacias de turno en Chile",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.3.0"
+  },
+  "devDependencies": {
+    "vite": "^2.7.1"
+  }
+}
